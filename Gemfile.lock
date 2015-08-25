@@ -1,0 +1,44 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    atk (2.2.5-x64-mingw32)
+      glib2 (= 2.2.5)
+    cairo (1.14.1-x64-mingw32)
+      pkg-config (>= 1.1.5)
+    gdk_pixbuf2 (2.2.5-x64-mingw32)
+      glib2 (= 2.2.5)
+    glib2 (2.2.5-x64-mingw32)
+      cairo (>= 1.12.8)
+      pkg-config
+    gtk2 (2.2.5-x64-mingw32)
+      atk (= 2.2.5)
+      gdk_pixbuf2 (= 2.2.5)
+      pango (= 2.2.5)
+    mini_portile (0.6.2)
+    nokogiri (1.6.6.2-x64-mingw32)
+      mini_portile (~> 0.6.0)
+    pango (2.2.5-x64-mingw32)
+      cairo (>= 1.14.0)
+      glib2 (= 2.2.5)
+    pdf-core (0.6.0)
+    pkg-config (1.1.6)
+    prawn (2.0.2)
+      pdf-core (~> 0.6.0)
+      ttfunk (~> 1.4.0)
+    require_all (1.3.2)
+    ttfunk (1.4.0)
+    vrlib (1.0.16)
+      gtk2 (>= 2.1.0)
+      require_all (>= 1.2.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  gtk2
+  nokogiri
+  prawn
+  vrlib
+
+BUNDLED WITH
+   1.10.6

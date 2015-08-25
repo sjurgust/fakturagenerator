@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobber>
+  <jobb>
+    <job_id>a22a4a20-f21c-4cf4-a890-48a65a3467af</job_id>
+    <filename_in>BIA_NRK_PYRO_Promo_out</filename_in>
+    <out_path>X:/ENCODE/</out_path>
+    <src_to_dst>mxf &gt;&gt;&gt; local_h264</src_to_dst>
+    <startet></startet>
+    <total_tid_brukt></total_tid_brukt>
+    <status>startet</status>
+    <msg></msg>
+  </jobb>
+</jobber>

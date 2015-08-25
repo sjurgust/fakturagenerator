@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakturaer>
+  <faktura>
+    <fnr>20146</fnr>
+    <mottaker_id>17</mottaker_id>
+    <beskrivelse_linje1>Piano/Bandspilling på Ringsakergallaen</beskrivelse_linje1>
+    <beskrivelse_linje2>17. januar 2014</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>30.01.2014</dato_sendt>
+    <forfallsdato>13.02.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20147</fnr>
+    <mottaker_id>18</mottaker_id>
+    <beskrivelse_linje1>Piano-backing Pegasus Jessheim</beskrivelse_linje1>
+    <beskrivelse_linje2>7-8 februar 2014</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>23.02.2014</dato_sendt>
+    <forfallsdato>09.03.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 500</belop>
+    <sum>4 500</sum>
+    <mva>0</mva>
+    <total>4 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20148</fnr>
+    <mottaker_id>18</mottaker_id>
+    <beskrivelse_linje1>Piano-backing Pegasus Sarpsborg</beskrivelse_linje1>
+    <beskrivelse_linje2>21. februar 2014</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>23.02.2014</dato_sendt>
+    <forfallsdato>09.03.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>3 500</belop>
+    <sum>3 500</sum>
+    <mva>0</mva>
+    <total>3 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20149</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing m/Gaute</beskrivelse_linje1>
+    <beskrivelse_linje2>Grunsetmart'n</beskrivelse_linje2>
+    <beskrivelse_linje3>6. mars 2014</beskrivelse_linje3>
+    <dato_sendt>15.03.2014</dato_sendt>
+    <forfallsdato>29.03.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>2 500</belop>
+    <sum>2 500</sum>
+    <mva>0</mva>
+    <total>2 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20150</fnr>
+    <mottaker_id>12</mottaker_id>
+    <beskrivelse_linje1>Piano-backing, Hamar</beskrivelse_linje1>
+    <beskrivelse_linje2>Kvassrelease</beskrivelse_linje2>
+    <beskrivelse_linje3>22. mars.14</beskrivelse_linje3>
+    <dato_sendt>23.03.2014</dato_sendt>
+    <forfallsdato>06.04.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20151</fnr>
+    <mottaker_id>19</mottaker_id>
+    <beskrivelse_linje1>Spilling med After Eight</beskrivelse_linje1>
+    <beskrivelse_linje2>Ute på torget</beskrivelse_linje2>
+    <beskrivelse_linje3>14. mars 14</beskrivelse_linje3>
+    <dato_sendt>24.03.2014</dato_sendt>
+    <forfallsdato>07.04.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>2 500</belop>
+    <sum>2 500</sum>
+    <mva>0</mva>
+    <total>2 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20152</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing ifm Presentasjon av </beskrivelse_linje1>
+    <beskrivelse_linje2>A-Lagene/Dala/Fotball</beskrivelse_linje2>
+    <beskrivelse_linje3>26. april 14</beskrivelse_linje3>
+    <dato_sendt>03.05.2014</dato_sendt>
+    <forfallsdato>17.05.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>3 000</belop>
+    <sum>3 000</sum>
+    <mva>0</mva>
+    <total>3 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20153</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2/>
+    <beskrivelse_linje3/>
+    <dato_sendt>15.06.2014</dato_sendt>
+    <forfallsdato>29.06.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>2 797</belop>
+    <sum>2 797</sum>
+    <mva>0</mva>
+    <total>2 797</total>
+  </faktura>
+  <faktura>
+    <fnr>20154</fnr>
+    <mottaker_id>20</mottaker_id>
+    <beskrivelse_linje1>Piano/synth</beskrivelse_linje1>
+    <beskrivelse_linje2>Lierdagene</beskrivelse_linje2>
+    <beskrivelse_linje3>14. juni 14</beskrivelse_linje3>
+    <dato_sendt>15.06.2014</dato_sendt>
+    <forfallsdato>29.06.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 500</belop>
+    <sum>4 500</sum>
+    <mva>0</mva>
+    <total>4 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20155</fnr>
+    <mottaker_id>21</mottaker_id>
+    <beskrivelse_linje1>Attåtsynth med Sonic Debris</beskrivelse_linje1>
+    <beskrivelse_linje2>Byfest Brumunddal 2014</beskrivelse_linje2>
+    <beskrivelse_linje3>20. juni 14</beskrivelse_linje3>
+    <dato_sendt>23.06.2014</dato_sendt>
+    <forfallsdato>07.07.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20156</fnr>
+    <mottaker_id>18</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Torget, Jessheim</beskrivelse_linje2>
+    <beskrivelse_linje3>24 mai 14</beskrivelse_linje3>
+    <dato_sendt>20.07.2014</dato_sendt>
+    <forfallsdato>03.08.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>2 300</belop>
+    <sum>2 300</sum>
+    <mva>0</mva>
+    <total>2 300</total>
+  </faktura>
+  <faktura>
+    <fnr>20157</fnr>
+    <mottaker_id>18</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Ørland</beskrivelse_linje2>
+    <beskrivelse_linje3>4-5 juli 14</beskrivelse_linje3>
+    <dato_sendt>20.07.2014</dato_sendt>
+    <forfallsdato>03.08.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>6 009</belop>
+    <sum>6 009</sum>
+    <mva>0</mva>
+    <total>6 009</total>
+  </faktura>
+  <faktura>
+    <fnr>20158</fnr>
+    <mottaker_id>12</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Sommershow 2014</beskrivelse_linje2>
+    <beskrivelse_linje3>Tingnes</beskrivelse_linje3>
+    <dato_sendt>04.08.2014</dato_sendt>
+    <forfallsdato>18.08.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>23 000</belop>
+    <sum>23 000</sum>
+    <mva>0</mva>
+    <total>23 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20159</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Høsbjør</beskrivelse_linje2>
+    <beskrivelse_linje3>13. okt. 14</beskrivelse_linje3>
+    <dato_sendt>19.10.2014</dato_sendt>
+    <forfallsdato>02.11.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>3 500</belop>
+    <sum>3 500</sum>
+    <mva>0</mva>
+    <total>3 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20160</fnr>
+    <mottaker_id>12</mottaker_id>
+    <beskrivelse_linje1>Tangenter</beskrivelse_linje1>
+    <beskrivelse_linje2>Legacy</beskrivelse_linje2>
+    <beskrivelse_linje3>28-29.nov.14</beskrivelse_linje3>
+    <dato_sendt>02.12.2014</dato_sendt>
+    <forfallsdato>16.12.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20161</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>Virke og Fredfoss</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>22.12.2014</dato_sendt>
+    <forfallsdato>05.01.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>7 100</belop>
+    <sum>7 100</sum>
+    <mva>0</mva>
+    <total>7 100</total>
+  </faktura>
+  <faktura>
+    <fnr>20162</fnr>
+    <mottaker_id>17</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Evry julebord</beskrivelse_linje2>
+    <beskrivelse_linje3>Hoel Gård</beskrivelse_linje3>
+    <dato_sendt>22.12.2014</dato_sendt>
+    <forfallsdato>05.01.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>5 000</belop>
+    <sum>5 000</sum>
+    <mva>0</mva>
+    <total>5 000</total>
+  </faktura>
+ 
+</fakturaer>

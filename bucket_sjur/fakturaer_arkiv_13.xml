@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakturaer>
+  <faktura>
+    <fnr>20132</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>i Oslo</beskrivelse_linje2>
+    <beskrivelse_linje3>24. jan 2013</beskrivelse_linje3>
+    <dato_sendt>05.03.2013</dato_sendt>
+    <forfallsdato>12.03.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 572</belop>
+    <sum>3 572</sum>
+    <mva>0</mva>
+    <total>3 572</total>
+  </faktura>
+  <faktura>
+    <fnr>20133</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>Fornebu</beskrivelse_linje2>
+    <beskrivelse_linje3>1. februar 2013</beskrivelse_linje3>
+    <dato_sendt>05.03.2013</dato_sendt>
+    <forfallsdato>12.03.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>4 167</belop>
+    <sum>4 167</sum>
+    <mva>0</mva>
+    <total>4 167</total>
+  </faktura>
+  <faktura>
+    <fnr>20134</fnr>
+    <mottaker_id>15</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med After Eight</beskrivelse_linje1>
+    <beskrivelse_linje2>Furnes 22. februar</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>08.03.2013</dato_sendt>
+    <forfallsdato>16.03.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 500</belop>
+    <sum>3 500</sum>
+    <mva>0</mva>
+    <total>3 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20135</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>Kvitfjell 2. april 2013</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>02.05.2013</dato_sendt>
+    <forfallsdato>12.05.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 571</belop>
+    <sum>3 571</sum>
+    <mva>0</mva>
+    <total>3 571</total>
+  </faktura>
+  <faktura>
+    <fnr>20136</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>Kvitfjell 22. april 2013</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>02.05.2013</dato_sendt>
+    <forfallsdato>12.05.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>2 997</belop>
+    <sum>2 997</sum>
+    <mva>0</mva>
+    <total>2 997</total>
+  </faktura>
+  <faktura>
+    <fnr>20131</fnr>
+    <mottaker_id>16</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med After Eight</beskrivelse_linje1>
+    <beskrivelse_linje2>Hamar</beskrivelse_linje2>
+    <beskrivelse_linje3>27. september 2012</beskrivelse_linje3>
+    <dato_sendt>22.01.2013</dato_sendt>
+    <forfallsdato>23.01.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>1 000</belop>
+    <sum>1 000</sum>
+    <mva>0</mva>
+    <total>1 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20137</fnr>
+    <mottaker_id>15</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med After Eight</beskrivelse_linje1>
+    <beskrivelse_linje2>Hamar 31. mai 2013</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>17.06.2013</dato_sendt>
+    <forfallsdato>27.06.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>2 500</belop>
+    <sum>2 500</sum>
+    <mva>0</mva>
+    <total>2 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20138</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano/synth med Airbuzz</beskrivelse_linje1>
+    <beskrivelse_linje2>Oslo, SAS Raddison</beskrivelse_linje2>
+    <beskrivelse_linje3>1. juni 2013</beskrivelse_linje3>
+    <dato_sendt>06.07.2013</dato_sendt>
+    <forfallsdato>18.07.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 200</belop>
+    <sum>3 200</sum>
+    <mva>0</mva>
+    <total>3 200</total>
+  </faktura>
+  <faktura>
+    <fnr>20140</fnr>
+    <mottaker_id>12</mottaker_id>
+    <beskrivelse_linje1>Piano på Sommershow</beskrivelse_linje1>
+    <beskrivelse_linje2>Tingnes, juli 2013</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>04.08.2013</dato_sendt>
+    <forfallsdato>20.08.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>20 000</belop>
+    <sum>20 000</sum>
+    <mva>0</mva>
+    <total>20 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20141</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing med anlegg</beskrivelse_linje1>
+    <beskrivelse_linje2>i vielse i Hamardomen</beskrivelse_linje2>
+    <beskrivelse_linje3>7. september 2013</beskrivelse_linje3>
+    <dato_sendt>11.09.2013</dato_sendt>
+    <forfallsdato>21.09.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20142</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>på Bjørge Nordre, Veldre</beskrivelse_linje2>
+    <beskrivelse_linje3>12. september 2013</beskrivelse_linje3>
+    <dato_sendt>13.09.2013</dato_sendt>
+    <forfallsdato>23.09.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 500</belop>
+    <sum>3 500</sum>
+    <mva>0</mva>
+    <total>3 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20143</fnr>
+    <mottaker_id>17</mottaker_id>
+    <beskrivelse_linje1>Piano/synth for Høsøiens</beskrivelse_linje1>
+    <beskrivelse_linje2>på Høsbjør, Furnes</beskrivelse_linje2>
+    <beskrivelse_linje3>5. september 2013</beskrivelse_linje3>
+    <dato_sendt>17.09.2013</dato_sendt>
+    <forfallsdato>01.10.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20144</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Askim</beskrivelse_linje2>
+    <beskrivelse_linje3>24. oktober</beskrivelse_linje3>
+    <dato_sendt>27.10.2013</dato_sendt>
+    <forfallsdato>10.11.2013</forfallsdato>
+    <antall>1</antall>
+    <belop>3 000</belop>
+    <sum>3 000</sum>
+    <mva>0</mva>
+    <total>3 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20145</fnr>
+    <mottaker_id>13</mottaker_id>
+    <beskrivelse_linje1>Piano-backing på to jobber i Oslo</beskrivelse_linje1>
+    <beskrivelse_linje2>Desember 2013 2</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>27.12.2013</dato_sendt>
+    <forfallsdato>10.01.2014</forfallsdato>
+    <antall>1</antall>
+    <belop>7 183</belop>
+    <sum>7 183</sum>
+    <mva>0</mva>
+    <total>7 183</total>
+  </faktura>
+</fakturaer>

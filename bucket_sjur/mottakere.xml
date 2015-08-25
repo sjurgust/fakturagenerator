@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mottakere>
+  <mottaker>
+    <mottaker_id>12</mottaker_id>
+    <linje1>KAROLINE AMB</linje1>
+    <linje2>STORHAMARGATA 34 A</linje2>
+    <linje3>2317 HAMAR</linje3>
+    <linje4/>
+    <siste_fnr>20138</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>13</mottaker_id>
+    <linje1>SOLFAKTOR HOLDING</linje1>
+    <linje2>ATT: AIRBUZZ</linje2>
+    <linje3>ROSENKRANTZ GATE 9</linje3>
+    <linje4>0159 OSLO</linje4>
+    <siste_fnr>20140</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>14</mottaker_id>
+    <linje1>GAUTE ORMÅSEN</linje1>
+    <linje2>Guvernørens vei 9e</linje2>
+    <linje3>0284 OSLO</linje3>
+    <linje4/>
+    <siste_fnr>20142</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>15</mottaker_id>
+    <linje1>After Eight v/</linje1>
+    <linje2>Geir A.W. Johansen</linje2>
+    <linje3>Holmlundveien 78</linje3>
+    <linje4>2312 OTTESTAD</linje4>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>16</mottaker_id>
+    <linje1>Bjørnar Sleppen</linje1>
+    <linje2>Ajerhagan 31</linje2>
+    <linje3>2319 HAMAR</linje3>
+    <linje4/>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>17</mottaker_id>
+    <linje1>Per E. Høsøien</linje1>
+    <linje2>Langbergvn 42</linje2>
+    <linje3>2335 STANGE</linje3>
+    <linje4/>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>18</mottaker_id>
+    <linje1>Nf Underholdning</linje1>
+    <linje2>v/ Nina Fosterud</linje2>
+    <linje3>Åstadlia 20</linje3>
+    <linje4>1396 Billingstad</linje4>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>19</mottaker_id>
+    <linje1>Hamar Kommune, fakturamottak</linje1>
+    <linje2>Pb. 4344, 2308 Hamar</linje2>
+    <linje3>Kulturhusåpning</linje3>
+    <linje4>ressurs nr 501589</linje4>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>20</mottaker_id>
+    <linje1>Monsterpop</linje1>
+    <linje2>v/Aslak Diesen</linje2>
+    <linje3>Dyrløkkefaret 6</linje3>
+    <linje4>1448 Drøbak</linje4>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>21</mottaker_id>
+    <linje1>Sonic Debris DA</linje1>
+    <linje2>Fagerlundvegen 33</linje2>
+    <linje3>2383 Brumunddal</linje3>
+    <linje4/>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>22</mottaker_id>
+    <linje1>Eika forsikring</linje1>
+    <linje2>PB 2349, Solli</linje2>
+    <linje3>0201 OSLO</linje3>
+    <linje4/>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>23</mottaker_id>
+    <linje1>3K LIVE AS</linje1>
+    <linje2>POSTBOKS 74</linje2>
+    <linje3>2301 HAMAR</linje3>
+    <linje4/>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+  <mottaker>
+    <mottaker_id>24</mottaker_id>
+    <linje1>Ringsaker kommune</linje1>
+    <linje2>Fakturamottak
+ 550 000 Kultur</linje2>
+    <linje3>Byfest i Moelv 2015</linje3>
+    <linje4>2380 Brumunddal </linje4>
+    <siste_fnr>0</siste_fnr>
+  </mottaker>
+</mottakere>

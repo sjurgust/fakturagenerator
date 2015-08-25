@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakturaer>
+  <faktura>
+    <fnr>20163</fnr>
+    <mottaker_id>17</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>29. nov 2014</beskrivelse_linje2>
+    <beskrivelse_linje3>Høsøiens, Veldrom</beskrivelse_linje3>
+    <dato_sendt>04.01.2015</dato_sendt>
+    <forfallsdato>18.01.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>5 000</belop>
+    <sum>5 000</sum>
+    <mva>0</mva>
+    <total>5 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20164</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>1. feb. Trysil</beskrivelse_linje2>
+    <beskrivelse_linje3>Musikalsk Aften</beskrivelse_linje3>
+    <dato_sendt>06.02.2015</dato_sendt>
+    <forfallsdato>20.02.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>4 500</belop>
+    <sum>4 500</sum>
+    <mva>0</mva>
+    <total>4 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20165</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>2. feb. Rudshøgda</beskrivelse_linje2>
+    <beskrivelse_linje3>Gaute</beskrivelse_linje3>
+    <dato_sendt>06.02.2015</dato_sendt>
+    <forfallsdato>20.02.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>3 500</belop>
+    <sum>3 500</sum>
+    <mva>0</mva>
+    <total>3 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20166</fnr>
+    <mottaker_id>17</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>4. feb, Scandic scene</beskrivelse_linje2>
+    <beskrivelse_linje3>Høsøiens Orkester</beskrivelse_linje3>
+    <dato_sendt>06.02.2015</dato_sendt>
+    <forfallsdato>20.02.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20167</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>22. april 15</beskrivelse_linje2>
+    <beskrivelse_linje3>Moteshow / Fønix</beskrivelse_linje3>
+    <dato_sendt>27.04.2015</dato_sendt>
+    <forfallsdato>11.05.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>2 500</belop>
+    <sum>2 500</sum>
+    <mva>0</mva>
+    <total>2 500</total>
+  </faktura>
+  <faktura>
+    <fnr>20168</fnr>
+    <mottaker_id>22</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>23. april, After 8</beskrivelse_linje2>
+    <beskrivelse_linje3>Fest / Olrud</beskrivelse_linje3>
+    <dato_sendt>27.04.2015</dato_sendt>
+    <forfallsdato>04.05.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>4 000</belop>
+    <sum>4 000</sum>
+    <mva>0</mva>
+    <total>4 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20169</fnr>
+    <mottaker_id>14</mottaker_id>
+    <beskrivelse_linje1>Piano-backing</beskrivelse_linje1>
+    <beskrivelse_linje2>Brumunddal</beskrivelse_linje2>
+    <beskrivelse_linje3>13. mai 2015</beskrivelse_linje3>
+    <dato_sendt>19.05.2015</dato_sendt>
+    <forfallsdato>02.06.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>1 000</belop>
+    <sum>1 000</sum>
+    <mva>0</mva>
+    <total>1 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20170</fnr>
+    <mottaker_id>23</mottaker_id>
+    <beskrivelse_linje1>Synthtjenester</beskrivelse_linje1>
+    <beskrivelse_linje2>Hamar</beskrivelse_linje2>
+    <beskrivelse_linje3>20. juni 2015</beskrivelse_linje3>
+    <dato_sendt>22.06.2015</dato_sendt>
+    <forfallsdato>06.07.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>1 950</belop>
+    <sum>1 950</sum>
+    <mva>0</mva>
+    <total>1 950</total>
+  </faktura>
+  <faktura>
+    <fnr>20171</fnr>
+    <mottaker_id>24</mottaker_id>
+    <beskrivelse_linje1>Piano-backing og forberedelser</beskrivelse_linje1>
+    <beskrivelse_linje2>Barnas byfest</beskrivelse_linje2>
+    <beskrivelse_linje3>20. juni 2015</beskrivelse_linje3>
+    <dato_sendt>23.06.2015</dato_sendt>
+    <forfallsdato>07.07.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>8 000</belop>
+    <sum>8 000</sum>
+    <mva>0</mva>
+    <total>8 000</total>
+  </faktura>
+  <faktura>
+    <fnr>20172</fnr>
+    <mottaker_id>18</mottaker_id>
+    <beskrivelse_linje1>Pianotjenester 1. halvår 2015</beskrivelse_linje1>
+    <beskrivelse_linje2>med Ronny Nilsen Band</beskrivelse_linje2>
+    <beskrivelse_linje3/>
+    <dato_sendt>07.08.2015</dato_sendt>
+    <forfallsdato>21.08.2015</forfallsdato>
+    <antall>1</antall>
+    <belop>9 333</belop>
+    <sum>9 333</sum>
+    <mva>0</mva>
+    <total>9 333</total>
+  </faktura>
+</fakturaer>
